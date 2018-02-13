@@ -1,0 +1,29 @@
+#!/bin/bash
+set -e
+
+if [ -z "$1" ]; then
+  echo "Usage: <SemVer>" >/dev/stderr
+  exit 1
+fi
+
+if ! semver "$1"; then
+  echo "Invalid SemVer" >/dev/stderr
+  exit 1
+fi
+
+if ! [ -z "$(git status --porcelain)" ]; then
+  echo "Git tree has changes."
+  exit 1
+fi
+
+if git rev-parse "$1" >/dev/null 2>&1; then
+  echo "Tag already exists."
+  exit 1
+fi
+
+echo "\"$1\"" > version.json
+
+git add version.json
+git commit -m "Version $1"
+git tag "v$1"
+git push origin --tags
