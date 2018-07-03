@@ -1,0 +1,12 @@
+#!/bin/sh
+set -e
+license="LICENSE.mustache"
+
+front=$(mktemp)
+back=$(mktemp)
+trap "rm -f $front $back" EXIT
+
+csplit --quiet --prefix=split "$license" /^Background/
+mv split00 "$front"
+mv split01 "$back"
+{ cat "$front" ; fmt -w60 -u "$back" ; } > "$license"
