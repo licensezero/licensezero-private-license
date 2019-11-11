@@ -12,7 +12,9 @@ Licensor Agent: {{{agentName}}} {{{agentJurisdiction}}} (ISO 3166-2) {{{agentWeb
 
 Licensee: {{{licenseeName}}} {{{licenseeJurisdiction}}} (ISO 3166-2) {{{licenseeEmail}}}
 
-Project: {{{repository}}} {{{description}}}
+Project Repository: {{{repository}}}
+
+Project Description: {{{description}}}
 
 Identifier: {{{projectID}}}
 
