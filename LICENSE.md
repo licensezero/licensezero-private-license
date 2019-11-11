@@ -4,25 +4,17 @@ Development Version
 
 <https://licensezero.com/licenses/private>
 
-Date:        {{{date}}} (ISO 8601)
+Date: {{{date}}} (ISO 8601)
 
-Licensor:    {{{licensorName}}}
-             {{{licensorJurisdiction}}} (ISO 3166-2)
+Licensor: {{{licensorName}}} {{{licensorJurisdiction}}} (ISO 3166-2)
 
-             acting through their agent:
+Licensor Agent: {{{agentName}}} {{{agentJurisdiction}}} (ISO 3166-2) {{{agentWebsite}}}
 
-             {{{agentName}}}
-             {{{agentJurisdiction}}} (ISO 3166-2)
-             {{{agentWebsite}}}
+Licensee: {{{licenseeName}}} {{{licenseeJurisdiction}}} (ISO 3166-2) {{{licenseeEmail}}}
 
-Licensee:    {{{licenseeName}}}
-             {{{licenseeJurisdiction}}} (ISO 3166-2)
-             {{{licenseeEmail}}}
+Project: {{{repository}}} {{{description}}}
 
-Project:     {{{repository}}}
-             {{{description}}}
-
-Identifier:  {{{projectID}}}
+Identifier: {{{projectID}}}
 
 ## Background
 
@@ -32,12 +24,12 @@ that either limit use for commercial purposes or require
 release of source code for software built with my work.
 
 This is a separate, private license for my contributions
-to the project, with different rules.  Unlike my
-public license, this private license lets you use my
-contributions to the project for commercial purposes and
-build software not released as open source.  However,
-this private license applies only to you, and in a
-limited way to those you're allowed to sublicense.
+to the project, with different rules.  Unlike my public
+license, this private license lets you use my contributions
+to the project for commercial purposes and build software
+not released as open source.  However, this private license
+applies only to you, and in a limited way to those you're
+allowed to sublicense.
 
 ## No Liability
 
@@ -49,18 +41,16 @@ project or this license, under any kind of legal claim.
 ## Scope
 
 This private license covers contributions I have made
-to the project with the identifier in metadata, and
-any contributions I make to the project in the future
-without changing the identifier or adding a new one.
-This private license does not cover contributions I
-make to the project in the future with a different or
-additional identifier.
+to the project with the identifier in metadata, and any
+contributions I make to the project in the future without
+changing the identifier or adding a new one.  This private
+license does not cover contributions I make to the project
+in the future with a different or additional identifier.
 
 ## Copyright License
 
-I license you to do everything with my contributions to
-the project that would otherwise infringe my copyright
-in them.
+I license you to do everything with my contributions to the
+project that would otherwise infringe my copyright in them.
 
 ## Notices
 
