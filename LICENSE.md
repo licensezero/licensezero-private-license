@@ -6,15 +6,35 @@ Development Version
 
 Date: {{{date}}} (ISO 8601)
 
-Licensor: {{{licensorName}}} {{{licensorJurisdiction}}} (ISO 3166-2)
+## Licensor
 
-Licensor Agent: {{{agentName}}} {{{agentJurisdiction}}} (ISO 3166-2) {{{agentWebsite}}}
+Name: {{{licensorName}}}
 
-Licensee: {{{licenseeName}}} {{{licenseeJurisdiction}}} (ISO 3166-2) {{{licenseeEmail}}}
+Jurisdiction: {{{licensorJurisdiction}}} (ISO 3166-2)
 
-Project Repository: {{{repository}}}
+## Agent
 
-Project Description: {{{description}}}
+Name: {{{agentName}}}
+
+Jurisdiction: {{{agentJurisdiction}}} (ISO 3166-2)
+
+Website: {{{agentWebsite}}}
+
+## Licensee
+
+Name: {{{licenseeName}}}
+
+Jurisdiction: {{{licenseeJurisdiction}}} (ISO 3166-2)
+
+E-Mail: {{{licenseeEmail}}}
+
+## Project
+
+Repository: {{{repository}}}
+
+Description: {{{description}}}
+
+## Contributions
 
 Identifier: {{{projectID}}}
 
