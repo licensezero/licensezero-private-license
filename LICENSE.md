@@ -4,7 +4,9 @@ Development Version
 
 <https://licensezero.com/licenses/private>
 
-Date: {{{date}}} (ISO 8601)
+## Date
+
+{{{date}}} (ISO 8601)
 
 ## Licensor
 
