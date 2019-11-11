@@ -1,6 +1,4 @@
-# License Zero Private License
-
-Development Draft
+# License Zero Private License Development Draft
 
 <https://licensezero.com/licenses/private>
 
