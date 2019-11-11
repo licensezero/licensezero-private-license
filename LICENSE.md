@@ -1,4 +1,4 @@
-# License Zero Private License Development Draft
+# License Zero Private License 7.0.0
 
 <https://licensezero.com/licenses/private>
 
