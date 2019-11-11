@@ -57,10 +57,11 @@ allowed to sublicense.
 
 ## No Liability
 
-As far as the law allows, my contributions to the project
-come as is, without any warranty or condition, and I will
-not be liable to anyone for any damages related to the
-project or this license, under any kind of legal claim.
+***As far as the law allows, my contributions to the
+project come as is, without any warranty or condition,
+and I will not be liable to anyone for any damages related
+to the project or this license, under any kind of legal
+claim.***
 
 ## Scope
 
