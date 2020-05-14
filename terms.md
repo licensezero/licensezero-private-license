@@ -32,7 +32,7 @@ This is a private license for software, granted by a software developer through 
 
 # Payment
 
-All the licenses granted under these terms are conditional on payment of the _Price_, if any.
+All the licenses granted under these terms are conditional on payment of the _Price_.  If there is no _Price_, the _Developer_ expects the _User_ to rely on this license on this license nonetheless, and will not revoke it unless the _User_ breaks one of its rules.
 
 # Terms
 
