@@ -12,7 +12,7 @@ This is a private license for software, granted by a software developer through 
 
 # Seller
 
-The **Licensor** is `licensor name`, `licensor jurisdiction` (ISO 3166-2).
+The **Seller** is `licensor name`, `licensor jurisdiction` (ISO 3166-2).
 
 # Agent
 
@@ -28,31 +28,31 @@ The **Project** is `project repository`, `project description`.
 
 # Contributions
 
-The **Identifier** for the _Licensor_'s **Contributions** to the _Project_ is `project identifier`.
+The **Identifier** for the _Seller_'s **Contributions** to the _Project_ is `project identifier`.
 
 # No Liability
 
-!!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Licensor_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
+!!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Seller_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
 
 # Scope
 
-This license covers contributions the _Licensor_ made to the _Project_ with the _Identifier_ in metadata, and any contributions the _Licensor_ makes to the _Project_ in the future without changing the _Identifier_ or adding a new one.  This license does not cover contributions the _Licensor_ makes to the project in the future with a different or additional identifier.
+This license covers contributions the _Seller_ made to the _Project_ with the _Identifier_ in metadata, and any contributions the _Seller_ makes to the _Project_ in the future without changing the _Identifier_ or adding a new one.  This license does not cover contributions the _Seller_ makes to the project in the future with a different or additional identifier.
 
 # Copyright License
 
-The _Licensor_ licenses the _Licensee_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Licensor_'s copyright in them.
+The _Seller_ licenses the _Licensee_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Seller_'s copyright in them.
 
 # Notices
 
-The _Licensor_ must ensure that everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
+The _Seller_ must ensure that everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
 
 # Patent License
 
-The _Licensor_ licenses the _Licensee_ to do everything with the project that would otherwise infringe patent claims the _Licensor_ can license or becomes able to license.
+The _Seller_ licenses the _Licensee_ to do everything with the project that would otherwise infringe patent claims the _Seller_ can license or becomes able to license.
 
 # Sublicensing
 
-If the _Licensee_ combines the _Licensor_'s _Contributions_ to the project with other software in a larger application, the _Licensee_ may sublicense the _Licensor_'s _Contributions_ to the _Project_ as part of their larger application, and allow further sublicensing in turn, under the following rules. The _Licensee_ may build, and sublicense for, as many larger applications as they like.
+If the _Licensee_ combines the _Seller_'s _Contributions_ to the project with other software in a larger application, the _Licensee_ may sublicense the _Seller_'s _Contributions_ to the _Project_ as part of their larger application, and allow further sublicensing in turn, under the following rules. The _Licensee_ may build, and sublicense for, as many larger applications as they like.
 
 1. The larger application must have significant additional content or functionality beyond that of the _Project_, and end users must license the larger application primarily for that added content or functionality.
 
@@ -62,4 +62,4 @@ If the _Licensee_ combines the _Licensor_'s _Contributions_ to the project with 
 
 # Agency
 
-The _Licensor_ has authorized _Agent_ to sign this license on the _Licensor_'s behalf.
+The _Seller_ has authorized _Agent_ to sign this license on the _Seller_'s behalf.
