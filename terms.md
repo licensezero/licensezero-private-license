@@ -8,8 +8,6 @@ This is a private license for software, granted by a software developer through 
 
 # Details
 
-- The **Effective Date** is `date` (ISO 8601).
-
 - The **Seller** is `seller name`, `seller jurisdiction` (ISO 3166-2).
 
 - The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`.
@@ -21,6 +19,8 @@ This is a private license for software, granted by a software developer through 
 - The **Identifier** for the _Seller_'s **Contributions** to the _Project_ is `project identifier`.
 
 - The **Price** is `price` (USD).
+
+- The **Effective Date** is `date` (ISO 8601).
 
 - The **Term** is `term`, beginning on the _Effective Date_.
 
