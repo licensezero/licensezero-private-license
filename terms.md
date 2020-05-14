@@ -70,7 +70,7 @@ If the _Buyer_ combines the _Seller_'s _Contributions_ to the project with other
 
 # Notices
 
-The _Seller_ must ensure that everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
+In order to make sure that everyone who get a copy of the _Project_ knows about the license rules for its use, the _Seller_ agrees to give everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
 
 # Agency
 
