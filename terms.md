@@ -6,9 +6,9 @@ title: License Zero Private License
 
 This is a private license for software, granted by a software developer through their agent to a specific user.  This license grants broad permission to use the software, but only to the user given the license.
 
-# Date
+# Effective Date
 
-`date` (ISO 8601)
+The **Effective Date** is `date` (ISO 8601).
 
 # Seller
 
@@ -34,6 +34,10 @@ The **Identifier** for the _Seller_'s **Contributions** to the _Project_ is `pro
 
 The **Price** is `price` (USD).
 
+# Term
+
+The **Term** is `term`, beginning on the _Effective Date_.
+
 # No Liability
 
 !!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Seller_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
@@ -44,7 +48,7 @@ This license covers contributions the _Seller_ made to the _Project_ with the _I
 
 # Copyright License
 
-In turn for the _Price_, the _Seller_ licenses the _Buyer_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Seller_'s copyright in them.
+In turn for the _Price_, the _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Seller_'s copyright in them.
 
 # Notices
 
@@ -52,7 +56,7 @@ The _Seller_ must ensure that everyone who gets a copy of any of the _Contributi
 
 # Patent License
 
-In return for the _Price_, the _Seller_ licenses the _Buyer_ to do everything with the project that would otherwise infringe patent claims the _Seller_ can license or becomes able to license.
+In return for the _Price_, the _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the project that would otherwise infringe patent claims the _Seller_ can license or becomes able to license.
 
 # Sublicensing
 
