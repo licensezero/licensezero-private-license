@@ -16,7 +16,7 @@ This is a private license for software, granted by a software developer through 
 
 - The **Project** is `project repository`, `project description`.
 
-- The **Identifier** for the _Seller_'s **Contributions** to the _Project_ is `project identifier`.
+- The **Identifier** for the _Seller_'s **Contributions** to the _Project_ covered by this license is `project identifier`.
 
 - The **Price** is `price` (USD).
 
