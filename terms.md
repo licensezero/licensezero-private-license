@@ -12,7 +12,7 @@ This is a private license for software, granted by a software developer through 
 
 # Seller
 
-The **Seller** is `licensor name`, `licensor jurisdiction` (ISO 3166-2).
+The **Seller** is `seller name`, `seller jurisdiction` (ISO 3166-2).
 
 # Agent
 
@@ -20,7 +20,7 @@ The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website
 
 # Buyer
 
-The **Buyer** is `licensee name`, `licensee jurisdiction` (ISO 3166-2), `licensee e-mail`.
+The **Buyer** is `buyer name`, `buyer jurisdiction` (ISO 3166-2), `buyer e-mail`.
 
 # Project
 
