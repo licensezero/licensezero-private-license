@@ -74,4 +74,4 @@ In order to make sure that everyone who get a copy of the _Project_ knows about 
 
 # Agency
 
-The _Seller_ has authorized _Agent_ to sign this license on the _Seller_'s behalf.
+The _Seller_ has authorized the _Agent_ to sign this license on the _Seller_'s behalf.
