@@ -4,7 +4,7 @@ title: License Zero Private License
 
 # Summary
 
-This is a private license for software, granted by a software developer through their agent to a specific user.  This license grants broad permission to use the software, but only to the user given the license.
+This is a private license for software, granted by a software developer through their agent to a specific user.
 
 # Details
 
