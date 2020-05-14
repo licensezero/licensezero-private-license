@@ -60,11 +60,11 @@ The _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the proje
 
 # Sublicensing
 
-If the _Buyer_ combines the _Seller_'s _Contributions_ to the project with other software in a larger application, the _Buyer_ may sublicense the _Seller_'s _Contributions_ to the _Project_ as part of their larger application, and allow further sublicensing in turn, under the following rules.  The _Buyer_ may build, and sublicense for, as many larger applications as they like.
+If the _Buyer_ combines the _Contributions_ to the _Project_ with other software in a larger application, the _Buyer_ may sublicense the _Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules.  The _Buyer_ may build, and sublicense for, as many larger applications as they like.
 
 1.  The larger application must have significant additional content or functionality beyond that of the _Project_, and end users must license the larger application primarily for that added content or functionality.
 
-2.  The _Buyer_ may not sublicense anyone to break any rule of the public license for my contributions to the project for any changes of their own or any software besides your larger application.
+2.  The _Buyer_ may not sublicense anyone to break any rule of any public license for the _Contributions_ for any changes of their own or any software besides the larger application.
 
 3.  [No Liability](#no-liability), [Sublicensing](#sublicensing), and [Notices](#notices) must apply to each sublicense.
 
