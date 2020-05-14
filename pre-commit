@@ -1,9 +1,0 @@
-#!/bin/sh
-set -e
-license="LICENSE.md"
-
-tmp=$(mktemp)
-trap "rm -f $tmp" EXIT
-
-fmt -w60 -u "$license" > "$tmp"
-mv "$tmp" "$license"
