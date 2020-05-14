@@ -56,7 +56,7 @@ In order to make sure that everyone who gets a copy of the _Licensed Contributio
 
 # Agency
 
-The _Developer_ has authorized the _Agent_ to sign this license on the _Developer_'s behalf.
+The _Developer_ has authorized the _Agent_ to sign this license on the _Developer_'s behalf.  The _Agent_ is not a party to this license.
 
 # Rights
 
