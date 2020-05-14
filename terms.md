@@ -48,7 +48,7 @@ If the _User_ combines some or all of the _Licensed Contributions_ with other so
 
 - The _User_ may not sublicense anyone to break any rule of any public license for the _Licensed Contributions_ for any changes of their own or any software besides the larger application.
 
-- [No Liability](#no-liability), [Sublicensing](#sublicensing), and [Notices](#notices) must apply to each sublicense.
+- [Liability](#no-liability), [Sublicensing](#sublicensing), and [Notices](#notices) must apply to each sublicense.
 
 - The _User_ may build, and sublicense for, as many larger applications as they like.
 
@@ -60,6 +60,6 @@ In order to make sure that everyone who gets a copy of the _Licensed Contributio
 
 The _Developer_ has authorized the _Agent_ to sign this license on the _Developer_'s behalf.
 
-# No Liability
+# Liability
 
 !!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Developer_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
