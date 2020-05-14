@@ -1,114 +1,61 @@
-# License Zero Private License Development Draft
+---
+title: License Zero Private License
+---
 
-<https://licensezero.com/licenses/private>
+# Date
 
-## Date
+`date` (ISO 8601)
 
-{{{date}}} (ISO 8601)
+# Licensor
 
-## Licensor
+`licensor name`, `licensor jurisdiction` (ISO 3166-2)
 
-Name: {{{licensorName}}}
+# Agent
 
-Jurisdiction: {{{licensorJurisdiction}}} (ISO 3166-2)
+`agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`
 
-## Agent
+# Licensee
 
-Name: {{{agentName}}}
+`licensee name`, `licensee jurisdiction` (ISO 3166-2), `licensee e-mail`
 
-Jurisdiction: {{{agentJurisdiction}}} (ISO 3166-2)
+# Project
 
-Website: {{{agentWebsite}}}
+`project repository`, `project description`
 
-## Licensee
+# Contributions
 
-Name: {{{licenseeName}}}
+`project identifier`
 
-Jurisdiction: {{{licenseeJurisdiction}}} (ISO 3166-2)
+# Background
 
-E-Mail: {{{licenseeEmail}}}
+I have made contributions to the project and granted a public license for them.  My public license has rules that either limit use for commercial purposes or require release of source code for software built with my work. This is a separate, private license for my contributions to the project, with different rules.  Unlike my public license, this private license lets you use my contributions to the project for commercial purposes and build software not released as open source.  However, this private license applies only to you, and in a limited way to those you're allowed to sublicense.
 
-## Project
+# No Liability
 
-Repository: {{{repository}}}
+!!! As far as the law allows, my contributions to the project come as is, without any warranty or condition, and I will not be liable to anyone for any damages related to the project or this license, under any kind of legal claim.
 
-Description: {{{description}}}
+# Scope
 
-## Contributions
+This private license covers contributions I have made to the project with the identifier in metadata, and any contributions I make to the project in the future without changing the identifier or adding a new one.  This private license does not cover contributions I make to the project in the future with a different or additional identifier.
 
-Identifier: {{{projectID}}}
+# Copyright License
 
-## Background
+I license you to do everything with my contributions to the project that would otherwise infringe my copyright in them.
 
-I have made contributions to the project and granted a
-public license for them.  My public license has rules
-that either limit use for commercial purposes or require
-release of source code for software built with my work.
+# Notices
 
-This is a separate, private license for my contributions
-to the project, with different rules.  Unlike my public
-license, this private license lets you use my contributions
-to the project for commercial purposes and build software
-not released as open source.  However, this private license
-applies only to you, and in a limited way to those you're
-allowed to sublicense.
+You must ensure that everyone who gets a copy of any of my contributions to the project from you, with or without changes, also gets the texts of the public licenses for those contributions.
 
-## No Liability
+# Patent License
 
-***As far as the law allows, my contributions to the
-project come as is, without any warranty or condition,
-and I will not be liable to anyone for any damages related
-to the project or this license, under any kind of legal
-claim.***
+I license you to do everything with the project that would otherwise infringe any patent claims I can license or become able to license.
 
-## Scope
+# Sublicensing
 
-This private license covers contributions I have made
-to the project with the identifier in metadata, and any
-contributions I make to the project in the future without
-changing the identifier or adding a new one.  This private
-license does not cover contributions I make to the project
-in the future with a different or additional identifier.
+If you combine my contributions to the project with other software in a larger application, you may sublicense my contributions to the project as part of your larger application, and allow further sublicensing in turn, under the following rules. You may build, and sublicense for, as many larger applications as you like.
 
-## Copyright License
+1. Your larger application must have significant additional content or functionality beyond that of the project, and end users must license your larger application primarily for that added content or functionality.
 
-I license you to do everything with my contributions to the
-project that would otherwise infringe my copyright in them.
+2. You may not sublicense anyone to break any rule of the public license for my contributions to the project for any changes of their own or any software besides your larger application.
 
-## Notices
-
-You must ensure that everyone who gets a copy of any of
-my contributions to the project from you, with or without
-changes, also gets the texts of the public licenses for
-those contributions.
-
-## Patent License
-
-I license you to do everything with the project that
-would otherwise infringe any patent claims I can license
-or become able to license.
-
-## Sublicensing
-
-If you combine my contributions to the project with other
-software in a larger application, you may sublicense
-my contributions to the project as part of your larger
-application, and allow further sublicensing in turn,
-under these rules:
-
-1. Your larger application must have significant
-   additional content or functionality beyond that of
-   the project, and end users must license your larger
-   application primarily for that added content or
-   functionality.
-
-2. You may not sublicense anyone to break any rule of
-   the public license for my contributions to the project
-   for any changes of their own or any software besides
-   your larger application.
-
-3. No Liability, Defensive Termination, Sublicensing,
-   and Redistribution must apply to each sublicense.
-
-You may build, and sublicense for, as many larger
-applications as you like.
+3. [No Liability](#no-liability), [Sublicensing](#sublicensing), and [Notices](#notices) must apply to each sublicense.
