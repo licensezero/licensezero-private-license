@@ -30,6 +30,10 @@ The **Project** is `project repository`, `project description`.
 
 The **Identifier** for the _Seller_'s **Contributions** to the _Project_ is `project identifier`.
 
+# Price
+
+The **Price** is `price` (USD).
+
 # No Liability
 
 !!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Seller_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
@@ -40,7 +44,7 @@ This license covers contributions the _Seller_ made to the _Project_ with the _I
 
 # Copyright License
 
-The _Seller_ licenses the _Buyer_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Seller_'s copyright in them.
+In turn for the _Price_, the _Seller_ licenses the _Buyer_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Seller_'s copyright in them.
 
 # Notices
 
@@ -48,7 +52,7 @@ The _Seller_ must ensure that everyone who gets a copy of any of the _Contributi
 
 # Patent License
 
-The _Seller_ licenses the _Buyer_ to do everything with the project that would otherwise infringe patent claims the _Seller_ can license or becomes able to license.
+In return for the _Price_, the _Seller_ licenses the _Buyer_ to do everything with the project that would otherwise infringe patent claims the _Seller_ can license or becomes able to license.
 
 # Sublicensing
 
