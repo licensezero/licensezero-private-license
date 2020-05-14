@@ -2,60 +2,64 @@
 title: License Zero Private License
 ---
 
+# Summary
+
+This is a private license for software, granted by a software developer through their agent to a specific user.  This license grants broad permission to use the software, but only to the user given the license.
+
 # Date
 
 `date` (ISO 8601)
 
-# Licensor
+# Seller
 
-`licensor name`, `licensor jurisdiction` (ISO 3166-2)
+The **Licensor** is `licensor name`, `licensor jurisdiction` (ISO 3166-2).
 
 # Agent
 
-`agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`
+The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`.
 
 # Licensee
 
-`licensee name`, `licensee jurisdiction` (ISO 3166-2), `licensee e-mail`
+The **Licensee** is `licensee name`, `licensee jurisdiction` (ISO 3166-2), `licensee e-mail`.
 
 # Project
 
-`project repository`, `project description`
+The **Project** is `project repository`, `project description`.
 
 # Contributions
 
-`project identifier`
-
-# Background
-
-I have made contributions to the project and granted a public license for them.  My public license has rules that either limit use for commercial purposes or require release of source code for software built with my work. This is a separate, private license for my contributions to the project, with different rules.  Unlike my public license, this private license lets you use my contributions to the project for commercial purposes and build software not released as open source.  However, this private license applies only to you, and in a limited way to those you're allowed to sublicense.
+The **Identifier** for the _Licensor_'s **Contributions** to the _Project_ is `project identifier`.
 
 # No Liability
 
-!!! As far as the law allows, my contributions to the project come as is, without any warranty or condition, and I will not be liable to anyone for any damages related to the project or this license, under any kind of legal claim.
+!!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Licensor_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
 
 # Scope
 
-This private license covers contributions I have made to the project with the identifier in metadata, and any contributions I make to the project in the future without changing the identifier or adding a new one.  This private license does not cover contributions I make to the project in the future with a different or additional identifier.
+This license covers contributions the _Licensor_ made to the _Project_ with the _Identifier_ in metadata, and any contributions the _Licensor_ makes to the _Project_ in the future without changing the _Identifier_ or adding a new one.  This license does not cover contributions the _Licensor_ makes to the project in the future with a different or additional identifier.
 
 # Copyright License
 
-I license you to do everything with my contributions to the project that would otherwise infringe my copyright in them.
+The _Licensor_ licenses the _Licensee_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Licensor_'s copyright in them.
 
 # Notices
 
-You must ensure that everyone who gets a copy of any of my contributions to the project from you, with or without changes, also gets the texts of the public licenses for those contributions.
+The _Licensor_ must ensure that everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
 
 # Patent License
 
-I license you to do everything with the project that would otherwise infringe any patent claims I can license or become able to license.
+The _Licensor_ licenses the _Licensee_ to do everything with the project that would otherwise infringe patent claims the _Licensor_ can license or becomes able to license.
 
 # Sublicensing
 
-If you combine my contributions to the project with other software in a larger application, you may sublicense my contributions to the project as part of your larger application, and allow further sublicensing in turn, under the following rules. You may build, and sublicense for, as many larger applications as you like.
+If the _Licensee_ combines the _Licensor_'s _Contributions_ to the project with other software in a larger application, the _Licensee_ may sublicense the _Licensor_'s _Contributions_ to the _Project_ as part of their larger application, and allow further sublicensing in turn, under the following rules. The _Licensee_ may build, and sublicense for, as many larger applications as they like.
 
-1. Your larger application must have significant additional content or functionality beyond that of the project, and end users must license your larger application primarily for that added content or functionality.
+1. The larger application must have significant additional content or functionality beyond that of the _Project_, and end users must license the larger application primarily for that added content or functionality.
 
-2. You may not sublicense anyone to break any rule of the public license for my contributions to the project for any changes of their own or any software besides your larger application.
+2. The _Licensee_ may not sublicense anyone to break any rule of the public license for my contributions to the project for any changes of their own or any software besides your larger application.
 
 3. [No Liability](#no-liability), [Sublicensing](#sublicensing), and [Notices](#notices) must apply to each sublicense.
+
+# Agency
+
+The _Licensor_ has authorized _Agent_ to sign this license on the _Licensor_'s behalf.
