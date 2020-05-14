@@ -12,7 +12,7 @@ This is a private license for software, granted by a software developer through 
 
 - The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`.
 
-- The **Buyer** is `buyer name`, `buyer jurisdiction` (ISO 3166-2), `buyer e-mail`.
+- The **User** is `user name`, `user jurisdiction` (ISO 3166-2), `user e-mail`.
 
 - The **Project** is `project repository`, `project description`.
 
@@ -38,19 +38,19 @@ All the licenses granted under these terms are conditional on payment of the _Pr
 
 # Copyright
 
-The _Developer_ licenses the _Buyer_ for the _Term_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Developer_'s copyright in them.
+The _Developer_ licenses the _User_ for the _Term_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Developer_'s copyright in them.
 
 # Patent
 
-The _Developer_ licenses the _Buyer_ for the _Term_ to do everything with the project that would otherwise infringe patent claims the _Developer_ can license or becomes able to license.
+The _Developer_ licenses the _User_ for the _Term_ to do everything with the project that would otherwise infringe patent claims the _Developer_ can license or becomes able to license.
 
 # Sublicensing
 
-If the _Buyer_ combines the _Contributions_ to the _Project_ with other software in a larger application, the _Buyer_ may sublicense the _Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules.  The _Buyer_ may build, and sublicense for, as many larger applications as they like.
+If the _User_ combines the _Contributions_ to the _Project_ with other software in a larger application, the _User_ may sublicense the _Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules.  The _User_ may build, and sublicense for, as many larger applications as they like.
 
 - The larger application must have significant additional content or functionality beyond that of the _Project_, and end users must license the larger application primarily for that added content or functionality.
 
-- The _Buyer_ may not sublicense anyone to break any rule of any public license for the _Contributions_ for any changes of their own or any software besides the larger application.
+- The _User_ may not sublicense anyone to break any rule of any public license for the _Contributions_ for any changes of their own or any software besides the larger application.
 
 - [No Liability](#no-liability), [Sublicensing](#sublicensing), and [Notices](#notices) must apply to each sublicense.
 
