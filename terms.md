@@ -50,10 +50,6 @@ This license covers contributions the _Seller_ made to the _Project_ with the _I
 
 In turn for the _Price_, the _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Seller_'s copyright in them.
 
-# Notices
-
-The _Seller_ must ensure that everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
-
 # Patent
 
 In return for the _Price_, the _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the project that would otherwise infringe patent claims the _Seller_ can license or becomes able to license.
@@ -67,6 +63,10 @@ If the _Buyer_ combines the _Seller_'s _Contributions_ to the project with other
 2. The _Buyer_ may not sublicense anyone to break any rule of the public license for my contributions to the project for any changes of their own or any software besides your larger application.
 
 3. [No Liability](#no-liability), [Sublicensing](#sublicensing), and [Notices](#notices) must apply to each sublicense.
+
+# Notices
+
+The _Seller_ must ensure that everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
 
 # Agency
 
