@@ -26,10 +26,6 @@ This is a private license for software, granted by a software developer through 
 
 - The **Term** is `term`, beginning on the _Effective Date_.
 
-# No Liability
-
-!!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Developer_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
-
 # Payment
 
 All the licenses granted under these terms are conditional on payment of the _Price_.  If there is no _Price_, the _Developer_ expects the _User_ to rely on this license on this license nonetheless, and will not revoke it unless the _User_ breaks one of its rules.
@@ -63,3 +59,7 @@ In order to make sure that everyone who gets a copy of the _Licensed Contributio
 # Agency
 
 The _Developer_ has authorized the _Agent_ to sign this license on the _Developer_'s behalf.
+
+# No Liability
+
+!!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Developer_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
