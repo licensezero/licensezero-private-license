@@ -22,9 +22,7 @@ This is a private license for software, granted by a software developer through 
 
 - The **Price** is `price` (USD).
 
-- The **Effective Date** is `date` (ISO 8601).
-
-- The **Term** is `term`, beginning on the _Effective Date_.
+- The **Term** begins on `date` (ISO 8601) and continues `term`.
 
 # Payment
 
