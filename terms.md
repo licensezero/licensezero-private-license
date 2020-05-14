@@ -46,7 +46,7 @@ If the _User_ combines some or all of the _Licensed Contributions_ with other so
 
 - The _User_ may not sublicense anyone to break any rule of any public license for the _Licensed Contributions_ for any changes of their own or any software besides the larger application.
 
-- [Liability](#no-liability), [Sublicensing](#sublicensing), and [Notices](#notices) must apply to each sublicense.
+- [Sublicensing](#sublicensing) as [Notices](#notices), as well as warranty disclaimers and and damages exclusions at least as broad as [Disclaimer](#disclaimer) and [Exclusion](#exclusion), must apply to each sublicense.
 
 - The _User_ may build, and sublicense for, as many larger applications as they like.
 
