@@ -8,7 +8,7 @@ This is a private license for software, granted by a software developer through 
 
 # Details
 
-- The **Seller** is `seller name`, `seller jurisdiction` (ISO 3166-2).
+- The **Developer** is `developer name`, `developer jurisdiction` (ISO 3166-2).
 
 - The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`.
 
@@ -16,7 +16,7 @@ This is a private license for software, granted by a software developer through 
 
 - The **Project** is `project repository`, `project description`.
 
-- The **Offer Identifier** for the _Seller_'s **Contributions** to the _Project_ covered by this license is `offer identifier`.
+- The **Offer Identifier** for the _Developer_'s **Contributions** to the _Project_ covered by this license is `offer identifier`.
 
 - The **Price** is `price` (USD).
 
@@ -26,11 +26,11 @@ This is a private license for software, granted by a software developer through 
 
 # No Liability
 
-!!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Seller_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
+!!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Developer_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
 
 # Scope
 
-This license covers contributions the _Seller_ made to the _Project_ with the _Identifier_ in metadata, and any contributions the _Seller_ makes to the _Project_ in the future without changing the _Identifier_ or adding a new one.  This license does not cover contributions the _Seller_ makes to the project in the future with a different or additional identifier.
+This license covers contributions the _Developer_ made to the _Project_ with the _Identifier_ in metadata, and any contributions the _Developer_ makes to the _Project_ in the future without changing the _Identifier_ or adding a new one.  This license does not cover contributions the _Developer_ makes to the project in the future with a different or additional identifier.
 
 # Payment
 
@@ -38,11 +38,11 @@ All the licenses granted under these terms are conditional on payment of the _Pr
 
 # Copyright
 
-The _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Seller_'s copyright in them.
+The _Developer_ licenses the _Buyer_ for the _Term_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Developer_'s copyright in them.
 
 # Patent
 
-The _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the project that would otherwise infringe patent claims the _Seller_ can license or becomes able to license.
+The _Developer_ licenses the _Buyer_ for the _Term_ to do everything with the project that would otherwise infringe patent claims the _Developer_ can license or becomes able to license.
 
 # Sublicensing
 
@@ -56,8 +56,8 @@ If the _Buyer_ combines the _Contributions_ to the _Project_ with other software
 
 # Notices
 
-In order to make sure that everyone who get a copy of the _Project_ knows about the license rules for its use, the _Seller_ agrees to give everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
+In order to make sure that everyone who get a copy of the _Project_ knows about the license rules for its use, the _Developer_ agrees to give everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
 
 # Agency
 
-The _Seller_ has authorized the _Agent_ to sign this license on the _Seller_'s behalf.
+The _Developer_ has authorized the _Agent_ to sign this license on the _Developer_'s behalf.
