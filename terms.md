@@ -58,6 +58,14 @@ In order to make sure that everyone who gets a copy of the _Licensed Contributio
 
 The _Developer_ has authorized the _Agent_ to sign this license on the _Developer_'s behalf.
 
-# Liability
+# Rights
 
-!!! As far as the law allows, the _Project_ comes as is, without any warranty or condition, and neither the _Developer_ nor their _Agent_ will be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
+The _Developer_ states that they either own or have the rights to license copyrights in the _Licensed Contributions_.
+
+# Disclaimer
+
+!!! With the sole exception of [Rights](#rights), as far as the law allows, the _Project_ comes as is, without any warranty or condition.
+
+# Exclusion
+
+!!! With the sole exception of [Rights](#rights), as far as the law allows, the _Developer_ will not be liable to anyone for any damages related to the _Project_ or this license, under any kind of legal claim.
