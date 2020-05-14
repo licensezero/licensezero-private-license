@@ -8,7 +8,7 @@ This is a private license for software, granted by a software developer through 
 
 # Details
 
-- The **Developer** is `developer name`, `developer jurisdiction` (ISO 3166-2).
+- The **Developer** is `developer name`, `developer jurisdiction` (ISO 3166-2), `developer e-mail`.
 
 - The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`.
 
