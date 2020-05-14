@@ -6,37 +6,23 @@ title: License Zero Private License
 
 This is a private license for software, granted by a software developer through their agent to a specific user.  This license grants broad permission to use the software, but only to the user given the license.
 
-# Effective Date
+# Details
 
-The **Effective Date** is `date` (ISO 8601).
+- The **Effective Date** is `date` (ISO 8601).
 
-# Seller
+- The **Seller** is `seller name`, `seller jurisdiction` (ISO 3166-2).
 
-The **Seller** is `seller name`, `seller jurisdiction` (ISO 3166-2).
+- The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`.
 
-# Agent
+- The **Buyer** is `buyer name`, `buyer jurisdiction` (ISO 3166-2), `buyer e-mail`.
 
-The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`.
+- The **Project** is `project repository`, `project description`.
 
-# Buyer
+- The **Identifier** for the _Seller_'s **Contributions** to the _Project_ is `project identifier`.
 
-The **Buyer** is `buyer name`, `buyer jurisdiction` (ISO 3166-2), `buyer e-mail`.
+- The **Price** is `price` (USD).
 
-# Project
-
-The **Project** is `project repository`, `project description`.
-
-# Contributions
-
-The **Identifier** for the _Seller_'s **Contributions** to the _Project_ is `project identifier`.
-
-# Price
-
-The **Price** is `price` (USD).
-
-# Term
-
-The **Term** is `term`, beginning on the _Effective Date_.
+- The **Term** is `term`, beginning on the _Effective Date_.
 
 # No Liability
 
