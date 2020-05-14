@@ -46,7 +46,7 @@ The **Term** is `term`, beginning on the _Effective Date_.
 
 This license covers contributions the _Seller_ made to the _Project_ with the _Identifier_ in metadata, and any contributions the _Seller_ makes to the _Project_ in the future without changing the _Identifier_ or adding a new one.  This license does not cover contributions the _Seller_ makes to the project in the future with a different or additional identifier.
 
-# Copyright License
+# Copyright
 
 In turn for the _Price_, the _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the _Contributions_ to the _Project_ that would otherwise infringe the _Seller_'s copyright in them.
 
@@ -54,7 +54,7 @@ In turn for the _Price_, the _Seller_ licenses the _Buyer_ for the _Term_ to do 
 
 The _Seller_ must ensure that everyone who gets a copy of any of the _Contributions_ to the _Project_ from them, with or without changes, also gets the text of this license, as well as the text of any public license granted for them.
 
-# Patent License
+# Patent
 
 In return for the _Price_, the _Seller_ licenses the _Buyer_ for the _Term_ to do everything with the project that would otherwise infringe patent claims the _Seller_ can license or becomes able to license.
 
