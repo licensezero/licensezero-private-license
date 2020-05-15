@@ -50,7 +50,7 @@ The _User_ may not sublicense anyone to break any rule of any public license for
 
 ## Passthrough
 
-[Sublicensing](#sublicensing) as [Notices](#notices), as well as warranty disclaimers and and damages exclusions at least as broad as [Disclaimer](#disclaimer) and [Exclusion](#exclusion), must apply to each sublicense.
+[Sublicensing](#sublicensing) as [Notices](#notices), as well as warranty disclaimers and damages exclusions at least as broad as [Disclaimer](#disclaimer) and [Exclusion](#exclusion), must apply to each sublicense.
 
 ## Unlimited Applications
 
