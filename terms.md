@@ -44,13 +44,13 @@ If the _User_ combines some or all of the _Licensed Contributions_ with other so
 
 The larger application must have significant additional content or functionality beyond that of the _Project_, and end users must license the larger application primarily for that added content or functionality.
 
-## Development
+## Maintenance
 
-The _User_ may not sublicense anyone to break any rule of any public license for the _Licensed Contributions_ for any changes of their own or any software besides the larger application.
+The _User_ may sublicense others to maintain the larger application, but not to use the _Licensed Contributions_ in new or different ways in that application, or to develop larger applications of their own.
 
 ## Purpose
 
-The purpose of [Added Value](#added-value) and [Development](#development) is to prevent the _User_ from sublicensing other developers who should buy their own private licenses.
+The purpose of [Added Value](#added-value) and [Maintenance](#maintenance) is to prevent the _User_ from sublicensing others who should buy their own private licenses.
 
 ## Passthrough
 
