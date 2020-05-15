@@ -48,6 +48,10 @@ The larger application must have significant additional content or functionality
 
 The _User_ may not sublicense anyone to break any rule of any public license for the _Licensed Contributions_ for any changes of their own or any software besides the larger application.
 
+## Purpose
+
+The purpose of [Added Value](#added-value) and [Development](#development) is to prevent the _User_ from sublicensing other developers who should buy their own private licenses.
+
 ## Passthrough
 
 [Sublicensing](#sublicensing) and [Notices](#notices), as well as warranty disclaimers and damages exclusions at least as broad as [Disclaimer](#disclaimer) and [Exclusion](#exclusion), must apply to each sublicense.
