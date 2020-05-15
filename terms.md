@@ -28,8 +28,6 @@ This is a private license for software, granted by a software developer through 
 
 All the licenses granted under these terms are conditional on payment of the _Price_.  If there is no _Price_, the _Developer_ expects the _User_ to rely on this license nonetheless, and will not revoke it unless the _User_ breaks one of its rules.
 
-# Terms
-
 # Copyright
 
 The _Developer_ licenses the _User_ for the _Term_ to do everything with the _Licensed Contributions_ that would otherwise infringe the _Developer_'s copyright in them.
