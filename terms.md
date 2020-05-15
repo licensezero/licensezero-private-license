@@ -40,13 +40,21 @@ The _Developer_ licenses the _User_ for the _Term_ to do everything with the _Pr
 
 If the _User_ combines some or all of the _Licensed Contributions_ with other software in a larger application, the _User_ may sublicense those _Licensed Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules:
 
-- The larger application must have significant additional content or functionality beyond that of the _Project_, and end users must license the larger application primarily for that added content or functionality.
+## Added Value
 
-- The _User_ may not sublicense anyone to break any rule of any public license for the _Licensed Contributions_ for any changes of their own or any software besides the larger application.
+The larger application must have significant additional content or functionality beyond that of the _Project_, and end users must license the larger application primarily for that added content or functionality.
 
-- [Sublicensing](#sublicensing) as [Notices](#notices), as well as warranty disclaimers and and damages exclusions at least as broad as [Disclaimer](#disclaimer) and [Exclusion](#exclusion), must apply to each sublicense.
+## Development
 
-- The _User_ may build, and sublicense for, as many larger applications as they like.
+The _User_ may not sublicense anyone to break any rule of any public license for the _Licensed Contributions_ for any changes of their own or any software besides the larger application.
+
+## Passthrough
+
+[Sublicensing](#sublicensing) as [Notices](#notices), as well as warranty disclaimers and and damages exclusions at least as broad as [Disclaimer](#disclaimer) and [Exclusion](#exclusion), must apply to each sublicense.
+
+## Unlimited Applications
+
+The _User_ may build, and sublicense for, as many larger applications as they like.
 
 # Notices
 
