@@ -42,7 +42,7 @@ The _Developer_ licenses the _User_ for the _Term_ to do everything with the _Pr
 
 If the _User_ combines some or all of the _Licensed Contributions_ with other software in a larger application, the _User_ may pass on their license rights, or sublicense, those _Licensed Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules:
 
-## Added Value
+## Value
 
 The larger application must have significant additional content or functionality beyond that of the _Project_, and end users must license the larger application primarily for that added content or functionality.
 
@@ -52,7 +52,7 @@ The _User_ may sublicense others to maintain the larger application, but not to 
 
 ## Purpose
 
-The purpose of [Added Value](#added-value) and [Maintenance](#maintenance) is to prevent the _User_ from sublicensing others who should buy their own private licenses.
+The purpose of [Value](#value) and [Maintenance](#maintenance) is to prevent the _User_ from sublicensing others who should buy their own private licenses.
 
 ## Terms
 
