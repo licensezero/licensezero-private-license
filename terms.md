@@ -40,7 +40,7 @@ The _Developer_ licenses the _User_ for the _Term_ to do everything with the _Pr
 
 # Sublicensing
 
-If the _User_ combines some or all of the _Licensed Contributions_ with other software in a larger application, the _User_ may sublicense those _Licensed Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules:
+If the _User_ combines some or all of the _Licensed Contributions_ with other software in a larger application, the _User_ may pass on their license rights, or sublicense, those _Licensed Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules:
 
 ## Added Value
 
