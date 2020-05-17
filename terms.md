@@ -54,7 +54,7 @@ The _User_ may sublicense others to maintain the larger application, but not to 
 
 The purpose of [Added Value](#added-value) and [Maintenance](#maintenance) is to prevent the _User_ from sublicensing others who should buy their own private licenses.
 
-## Passthrough
+## Terms
 
 [Sublicensing](#sublicensing) and [Notices](#notices), as well as warranty disclaimers and damages exclusions at least as broad as [Disclaimer](#disclaimer) and [Exclusion](#exclusion), must apply to each sublicense.
 
