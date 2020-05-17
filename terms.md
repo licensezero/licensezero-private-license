@@ -64,7 +64,7 @@ The _User_ may build, and sublicense for, as many larger applications as they li
 
 # Notices
 
-In order to make sure that everyone who gets a copy of the _Licensed Contributions_ knows about the license terms for their use, the _Developer_ agrees to give everyone who gets a copy of some or all of the _Licensed Contributions_ from them, with or without changes, the text of this license and any public license for them.
+In order to make sure that everyone who gets a copy of the _Licensed Contributions_ knows about the license terms for their use, the _Developer_ agrees to give everyone who gets a copy of some or all of the _Licensed Contributions_ from them, with or without changes, the text of this license and any public license for the _Licensed Contributions_.
 
 # Agency
 
