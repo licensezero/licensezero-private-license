@@ -72,7 +72,7 @@ The _Developer_ has authorized the _Agent_ to sign this license on the _Develope
 
 # Guarantee
 
-The _Developer_ guarantees that they either own or have the rights to license copyrights in the _Licensed Contributions_.
+The _Developer_ guarantees that they either own or have the rights to license copyrights in the _Licensed Contributions_, and are aware that legal rules and agreements can make others the owners of copyrights in their work.
 
 # Disclaimer
 
