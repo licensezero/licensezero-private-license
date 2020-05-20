@@ -4,7 +4,7 @@ title: License Zero Company License
 
 # Summary
 
-This is a private license for software, granted by a software developer through their agent to a specific user.
+This is a private license for software, granted by a software developer through their agent to a specific company.
 
 # Details
 
@@ -12,7 +12,7 @@ This is a private license for software, granted by a software developer through 
 
 - The **Agent** is `agent name`, `agent jurisdiction` (ISO 3166-2), `agent website`.
 
-- The **User** is `user name`, `user jurisdiction` (ISO 3166-2), `user e-mail`.
+- The **Company** is `user name`, `user jurisdiction` (ISO 3166-2), `user e-mail`.
 
 - The **Project** is `project repository`, `project description`.
 
@@ -24,7 +24,7 @@ This is a private license for software, granted by a software developer through 
 
 # Payment
 
-All the licenses granted under these terms are conditional on payment of the _Price_.  If there is no _Price_, the _Developer_ nonetheless expects the _User_ to rely on this license nonetheless, and will not revoke it unless the _User_ breaks one of its rules.
+All the licenses granted under these terms are conditional on payment of the _Price_.  If there is no _Price_, the _Developer_ nonetheless expects the _Company_ to rely on this license nonetheless, and will not revoke it unless the _Company_ breaks one of its rules.
 
 # Scope
 
@@ -32,15 +32,15 @@ The **Licensed Contributions** are the contributions the _Developer_ has made to
 
 # Copyright
 
-The _Developer_ licenses the _User_ for the _Term_ to do everything with the _Licensed Contributions_ that would otherwise infringe the _Developer_'s copyright in them.
+The _Developer_ licenses the _Company_ for the _Term_ to do everything with the _Licensed Contributions_ that would otherwise infringe the _Developer_'s copyright in them.
 
 # Patent
 
-The _Developer_ licenses the _User_ for the _Term_ to do everything with the _Project_ that would otherwise infringe patent claims the _Developer_ can license or becomes able to license.
+The _Developer_ licenses the _Company_ for the _Term_ to do everything with the _Project_ that would otherwise infringe patent claims the _Developer_ can license or becomes able to license.
 
 # Sublicensing
 
-If the _User_ combines some or all of the _Licensed Contributions_ with other software in a larger application, the _User_ may pass on their license rights, or sublicense, those _Licensed Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules:
+If the _Company_ combines some or all of the _Licensed Contributions_ with other software in a larger application, the _Company_ may pass on their license rights, or sublicense, those _Licensed Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules:
 
 ## Value
 
@@ -48,11 +48,11 @@ The larger application must have significant additional content or functionality
 
 ## Maintenance
 
-The _User_ may sublicense others to maintain the larger application, but not to use the _Licensed Contributions_ in new or different ways in that application, or to develop larger applications of their own.
+The _Company_ may sublicense others to maintain the larger application, but not to use the _Licensed Contributions_ in new or different ways in that application, or to develop larger applications of their own.
 
 ## Purpose
 
-The purpose of [Value](#value) and [Maintenance](#maintenance) is to prevent the _User_ from sublicensing others who should buy their own private licenses.
+The purpose of [Value](#value) and [Maintenance](#maintenance) is to prevent the _Company_ from sublicensing others who should buy their own private licenses.
 
 ## Terms
 
@@ -60,7 +60,7 @@ The purpose of [Value](#value) and [Maintenance](#maintenance) is to prevent the
 
 ## Unlimited Applications
 
-The _User_ may build, and sublicense for, as many larger applications as they like.
+The _Company_ may build, and sublicense for, as many larger applications as they like.
 
 # Notices
 
