@@ -1,5 +1,5 @@
 ---
-title: License Zero Private License
+title: License Zero Company License
 ---
 
 # Summary
