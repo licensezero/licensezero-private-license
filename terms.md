@@ -18,6 +18,8 @@ This is a private license for software, granted by a software developer through 
 
 - The **Price** is `price` (USD).
 
+- The **User Limit** is `user limit`.
+
 - The **Term** begins on `date` (ISO 8601) and continues `term`.
 
 - The **Offer Identifier** is `offer identifier`.
@@ -30,17 +32,21 @@ All the licenses granted under these terms are conditional on payment of the _Pr
 
 The **Licensed Contributions** are the contributions the _Developer_ has made to the _Project_ with the _Offer Identifier_ in metadata, as well as any contributions the _Developer_ makes to the _Project_ in the future without changing the _Offer Identifier_ or adding a new one.  _Licensed Contributions_ do not include any contributions the _Developer_ makes to the project int he future with a different or additional identifier.
 
+# Users
+
+The _Company_ may designate employees and natural-person independent contractors providing services to the _Company_ as **Users** under this license, up to the number of the _User Limit_ in any rolling year-long period.  _Company_ may remove employees and contractors as _Users_ to make room for others within the _User Limit_ by notifying them in writing that their rights under this license have ended.
+
 # Copyright
 
-The _Developer_ licenses the _Company_ for the _Term_ to do everything with the _Licensed Contributions_ that would otherwise infringe the _Developer_'s copyright in them.
+The _Developer_ licenses the _Company_ and its _Users_ for the _Term_ to do everything with the _Licensed Contributions_ that would otherwise infringe the _Developer_'s copyright in them.
 
 # Patent
 
-The _Developer_ licenses the _Company_ for the _Term_ to do everything with the _Project_ that would otherwise infringe patent claims the _Developer_ can license or becomes able to license.
+The _Developer_ licenses the _Company_ and its _Users_ for the _Term_ to do everything with the _Project_ that would otherwise infringe patent claims the _Developer_ can license or becomes able to license.
 
 # Sublicensing
 
-If the _Company_ combines some or all of the _Licensed Contributions_ with other software in a larger application, the _Company_ may pass on their license rights, or sublicense, those _Licensed Contributions_ as part of their larger application, and allow further sublicensing in turn, under the following rules:
+If _Users_ combine some or all of the _Licensed Contributions_ with other software in a larger application, the _Company_ may pass on its license rights, or sublicense, those _Licensed Contributions_ as part of the larger application, and allow further sublicensing in turn, under the following rules:
 
 ## Value
 
@@ -60,7 +66,7 @@ The purpose of [Value](#value) and [Maintenance](#maintenance) is to prevent the
 
 ## Unlimited Applications
 
-The _Company_ may build, and sublicense for, as many larger applications as they like.
+The _Users_ may build, and sublicense for, as many larger applications as they like.
 
 # Notices
 
