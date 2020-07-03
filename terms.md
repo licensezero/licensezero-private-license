@@ -28,7 +28,7 @@ All the licenses granted under these terms are conditional on payment of the _Pr
 
 # Scope
 
-The **Licensed Contributions** are the contributions the _Developer_ has made to the _Project_ with the _Offer Identifier_ in metadata, as well as any contributions the _Developer_ makes to the _Project_ in the future without changing the _Offer Identifier_ or adding a new one.  _Licensed Contributions_ do not include any contributions the _Developer_ makes to the project int he future with a different or additional identifier.
+The **Licensed Contributions** are the contributions the _Developer_ has made to the _Project_ with the _Offer Identifier_ in metadata, as well as any contributions the _Developer_ makes to the _Project_ in the future without changing the _Offer Identifier_ or adding a new one.  _Licensed Contributions_ do not include any contributions the _Developer_ makes to the project in the future with a different or additional identifier.
 
 # Copyright
 
